@@ -19,14 +19,14 @@ Deployment scripts that install (creates tables and also inserts data to the tab
 To install the project, copy the code snippets of interest to Oracle SQL Developer connected to the server, and then execute the sentences with the green button.
 
 ## Showcase of perspectives
-"wyswietl_cala_oferte” (show full offer) perspective:
+"wyswietl_cala_oferte” (show full offer) perspective: <br>
 ![Showcase 1](./Showcase/wyswietl-cala-oferte.png)
 
-"zarobki_wedlug_miesiecy” (earnings by month) perspective:
+"zarobki_wedlug_miesiecy” (earnings by month) perspective: <br>
 ![Showcase 2](./Showcase/zarobki-wedlug-miesiecy.png)
 
-"najlepiej_sprzedajace_sie_marki” (best-selling brands) perspective:
+"najlepiej_sprzedajace_sie_marki” (best-selling brands) perspective: <br>
 ![Showcase 3](./Showcase/najlepiej-sprzedajace-sie-marki.png)
 
-"miasta_najwiecej_zamowien” (highest orders by city) perspective:
+"miasta_najwiecej_zamowien” (highest orders by city) perspective: <br>
 ![Showcase 4](./Showcase/miasta-najwiecej-zamowien.png)
