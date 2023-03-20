@@ -20,13 +20,13 @@ To install the project, copy the code snippets of interest to Oracle SQL Develop
 
 ## Showcase of perspectives
 "wyswietl_cala_oferte” (show full offer) perspective: <br>
-![Showcase 1](./Showcase/wyswietl-cala-oferte.png)
+![Showcase 1](./Showcase/wyswietl-cala-oferte.png  | width=300)
 
 "zarobki_wedlug_miesiecy” (earnings by month) perspective: <br>
-![Showcase 2](./Showcase/zarobki-wedlug-miesiecy.png)
+![Showcase 2](./Showcase/zarobki-wedlug-miesiecy.png  | width=300)
 
 "najlepiej_sprzedajace_sie_marki” (best-selling brands) perspective: <br>
-![Showcase 3](./Showcase/najlepiej-sprzedajace-sie-marki.png)
+![Showcase 3](./Showcase/najlepiej-sprzedajace-sie-marki.png | width=300)
 
 "miasta_najwiecej_zamowien” (highest orders by city) perspective: <br>
-![Showcase 4](./Showcase/miasta-najwiecej-zamowien.png)
+![Showcase 4](./Showcase/miasta-najwiecej-zamowien.png | width=300)
