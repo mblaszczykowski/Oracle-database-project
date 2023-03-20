@@ -11,8 +11,8 @@ Oracle Data Modeler was used to create a relational model and a logical model.<b
 Oracle SQL Developer was used to execute and prepare SQL statements responsible for creating tables, sequences and perspectives, as well as deleting them and populating the tables with data. 
 
 ## Logical and relational model of the database
-![Logical model](./logical-model.png)
-![Relational model](./relational-model.png)
+<img src="./logical-model.png" width=70% height=70%>
+<img src="./relational-model.png" width=80% height=80%>
 
 ## Instructions for project installation
 Deployment scripts that install (creates tables and also inserts data to the tables) and uninstall the project are in .sql files.<br>
@@ -23,10 +23,10 @@ To install the project, copy the code snippets of interest to Oracle SQL Develop
 <img src="./Showcase/wyswietl-cala-oferte.png" width=60% height=60%>
 
 "zarobki_wedlug_miesiecy” (earnings by month) perspective: <br>
-<img src="./Showcase/zarobki-wedlug-miesiecy.png" width=30% height=30%>
+<img src="./Showcase/zarobki-wedlug-miesiecy.png" width=20% height=20%>
 
 "najlepiej_sprzedajace_sie_marki” (best-selling brands) perspective: <br>
-<img src="./Showcase/najlepiej-sprzedajace-sie-marki.png" width=30% height=30%>
+<img src="./Showcase/najlepiej-sprzedajace-sie-marki.png" width=25% height=25%>
 
 "miasta_najwiecej_zamowien” (highest orders by city) perspective: <br>
-<img src="./Showcase/miasta-najwiecej-zamowien.png" width=30% height=30%>
+<img src="./Showcase/miasta-najwiecej-zamowien.png" width=20% height=20%>
